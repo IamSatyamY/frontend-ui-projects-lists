@@ -2,7 +2,12 @@ Demo links for frontend ui projects
 
  https://samyadav.w3spaces.com/
 
- these are various projects for showcaisng ui frontend skills in html,css,js jquery
+ these are various projects for showcaisng 
+ ui frontend skills in:
+ 
+ html,
+ css,
+ js jquery
 
  some images :
 ![Screenshot (1442)](https://github.com/user-attachments/assets/ae452b78-bb72-464a-ab8e-f141ae0a4412)
